@@ -1,5 +1,7 @@
 # Restaurant App Sekawan Media TEST
 
+You can check the website here: https://frontenddevreactjs-1-habiburrahman.vercel.app/
+
 ## Available Scripts
 
 ### `npm start`
