@@ -35,6 +35,8 @@ restaurant-app-sekawan-media/
 │ ├── components/ # React components
 │ ├── helpers/ # Helper functions or utilities
 │ ├── models/ # Data models or types
+│ ├── services/ # API service functions
+│ ├── utils/ # General utility functions
 │ └── views/ # Main views or pages
 │
 ├── public/ # Public assets
