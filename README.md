@@ -49,5 +49,6 @@ restaurant-app-sekawan-media/
 - **React Feather**: Set of beautifully crafted icons for React projects.
 - **Chakra UI**: Simple, modular, and accessible UI component library for React.
 - **Framer Motion**: Animation library for React with a simple syntax.
-- **Formik + Yup**: Form library for React with form validation using Yup schema validation.
+- **Axios**: Promise-based HTTP client for making requests.
+- **React Star Ratings**: Simple star rating component for React.
 - etc
