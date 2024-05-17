@@ -1,6 +1,7 @@
 # Restaurant App Sekawan Media TEST
 
 You can check the website here: https://frontenddevreactjs-1-habiburrahman.vercel.app/
+Public API here: https://restaurant-api.dicoding.dev/#/
 
 ## Available Scripts
 
